@@ -114,13 +114,9 @@ LPC3_0:
   pop {r7, pc}
 
   .type STRING_1,%object
-  .section .rodata.strings,"aMS",%progbits,1
   .type STRING_2,%object
-  .section .rodata.strings,"aMS",%progbits,1
   .type STRING_3,%object
-  .section .rodata.strings,"aMS",%progbits,1
   .type STRING_4,%object
-  .section .rodata.strings,"aMS",%progbits,1
   .type STRING_4,%object
   .section .rodata.strings,"aMS",%progbits,1
 STRING_1:
